@@ -6,9 +6,9 @@
 
 int main() {
 
-    int entrada,aux;
-    char kh[2] = "&#128169;";
-    printf("%s\n",kh);
+    
+    printf("bostinha = 💩   \n");
+    
 return 0;
 
 }
